@@ -1,0 +1,12 @@
+# MCP Python SDK 패키지
+model-context-protocol
+
+# ASGI 서버를 위한 패키지
+starlette
+uvicorn
+
+# SQLite 예제를 위한 패키지
+sqlite3
+
+# 비동기 처리를 위한 패키지
+asyncio
